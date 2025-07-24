@@ -1,0 +1,11 @@
+{
+    "name": "Aditya Rawat",
+    "age" : 28,
+    "email" : "adityarawat@gmail.com",
+    "isSubscribed" : true,
+    "hobbies" : ["Reading, Walking, Running"],
+    "address" : {
+        "city" : "New York",
+        "idk" : true
+    }
+}
